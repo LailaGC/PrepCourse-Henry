@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este en un repositorio del modulo2 de PrepCourse Henry
+Laila Cooper
+Este proyecto es una prueba de como crear repositorio y clonarlo desde github a mi computadora.
